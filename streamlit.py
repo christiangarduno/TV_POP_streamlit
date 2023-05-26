@@ -1,4 +1,4 @@
-import streamlit
+import streamlit as st
 'Would you like to make a Movie or TV Show?'
 movie = st.checkbox('Movie')
 show = st.checkbox('Show')
